@@ -1,5 +1,7 @@
 # Matiee Portfolio v3
 
+<img src="docs/hero.png" alt="Portfolio hero: player card with Reymart Edra over a red spotlight" width="100%" />
+
 Esports-themed portfolio for Reymart "Matieee" Edra. The hero is a media-day player card: a background-removed portrait in a red/black radial spotlight with the name over the jersey.
 
 React 19 + TypeScript + Vite, GSAP (ScrollTrigger, SplitText) + Lenis. Dark only.
